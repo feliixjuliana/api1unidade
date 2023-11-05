@@ -1,8 +1,8 @@
 API para entrega da atividade, em relação a última.
 
 A API escolhida veio do site https://developer.themoviedb.org/docs, onde promove informações de filmes e a resposta do público quanto a eles. 
-Como nosso último trabalho foi de avaliações desses séries, animes e filmes essa foi a melhor que se encaixou. A API traz as principais informações do banco
-de dados do filme, sendo elas o nome do filme, na qual o ID posto se refere, o gênero, a data de lançamento e a sinopse.
+Como nosso último trabalho foi de avaliações de séries, animes e filmes essa foi a melhor que se encaixou. A API traz as principais informações do banco
+de dados do selecionado, sendo elas o nome do filme, na qual o ID posto se refere, o gênero, a data de lançamento e a sinopse.
 
 -- Para Utilizar ela, deve-se: 
 
